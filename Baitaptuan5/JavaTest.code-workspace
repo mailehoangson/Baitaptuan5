@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../ltdd/JavaTest"
+		},
+		{
+			"path": "../../ltdd/buoi2/StudentManager"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "javascript"
+	}
+}
